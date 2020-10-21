@@ -5,3 +5,7 @@ This project uses a **Linked List** structure in order to register student numbe
 <p align="center">
 [![Image1](https://i.hizliresim.com/lOaTX3.png "Image1")](https://i.hizliresim.com/lOaTX3.png "Image1")
 </p>
+
+<p align="center">
+  <img src="(https://i.hizliresim.com/lOaTX3.png">
+</p>
